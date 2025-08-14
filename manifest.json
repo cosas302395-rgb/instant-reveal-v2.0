@@ -1,0 +1,10 @@
+{
+    "display_name": "Instant Reveal",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "TuNombre",
+    "version": "1.0.0",
+    "homePage": "https://github.com/cosas302395-rgb/instant-reveal"
+}
